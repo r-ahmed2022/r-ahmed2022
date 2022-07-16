@@ -10,17 +10,18 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const riyaz = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-          },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
-```
+## I'm a Developer, Content Writer, and Tech Enthusaist!!
 
----
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other software developers
+- 🥅 2022 Goals: Learn more about Full Stacj
+- ⚡ Fun fact: I love playing football and the guitar 😻 
+
+![line](./img/line.gif)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/riyaz-ahmed-4216a71a8#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/riyaz-ahmed-4216a71a8#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+![line](./img/line.gif)
+
 ⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
