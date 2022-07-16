@@ -17,7 +17,7 @@
 - 🥅 2022 Goals: Learn more about Full StacK 
 - ⚡ Fun fact: I love playing football and the guitar 😻 
 
-![line](./img/line.gif)
+![line](./line.gif)
 
 ### Connect with me:
 [![r-ahmed@riysaim.com](](mailto:r-ahmed@riysaim.com)
@@ -26,7 +26,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/riyaz-ahmed-4216a71a8#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-![line](./img/line.gif)
+![line](./line.gif)
 
 ### Languages and Tools:
 
@@ -35,6 +35,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 
-![line](./img/line.gif)
+![line](./line.gif)
 
 ⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
