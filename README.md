@@ -20,7 +20,7 @@
 ![line](./img/line.gif)
 
 ### Connect with me:
-[![r-ahmed@riysaim.com](./img/gmail.svg)](mailto:r-ahmed@riysaim.com)
+[![r-ahmed@riysaim.com](](mailto:r-ahmed@riysaim.com)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/riyaz-ahmed-4216a71a8#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/riyaz-ahmed-4216a71a8#gh-dark-mode-only)
