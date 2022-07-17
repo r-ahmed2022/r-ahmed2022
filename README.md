@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Full StacK + Data science
+- 🥅 2022 Goals: Full StacK + Data science
 - ⚡ Fun fact: I love reading and the writing 😻 
 
 ![line](./line.gif)
