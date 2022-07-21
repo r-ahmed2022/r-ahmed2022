@@ -13,8 +13,8 @@
 ## I'm a Developer, Content Writer, and Tech Enthusaist!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a opening as a  software developer
-- 🥅 2022 Goals: Full StacK + Data science
+- 👯  Multi-skilled such as Software Developer , SMM , Content Writer and a Lead Management
+- 🥅 2022 Goals:  Next job as a Software Developer!"
 - ⚡ Fun fact: I love reading and the writing 😻 
 
 ![line](./line.gif)
