@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯  Multi-skilled such as Software Developer , SMM , Content Writer and a Lead Management
 - 🥅 2022 Goals:  Next job as a Software Developer!"
--  💪🏼 I beleive in the continuously creative and solution focused living
+-  💪🏼 I believe e in the continuously creative and solution focused living
 - ⚡ Fun fact: I love reading and the writing 😻 
 
 ![line](./line.gif)
