@@ -36,5 +36,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 [<img align="left" alt="bootstrap" width="26px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="padding-right:10px;" />](https://getbootstrap.com//)
 ![line](./line.gif)
+[<img align="left" alt="bootstrap" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" style="padding-right:10px;" />](https://reactjs.org///)
+![line](./line.gif)
 
 ⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
