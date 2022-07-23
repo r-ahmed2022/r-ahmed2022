@@ -35,6 +35,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 [<img align="left" alt="bootstrap" width="26px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="padding-right:10px;" />](https://getbootstrap.com//)
 ![line](./line.gif)
 [<img align="left" alt="bootstrap" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" style="padding-right:10px;" />](https://reactjs.org///)
