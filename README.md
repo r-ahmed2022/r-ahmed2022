@@ -15,7 +15,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯  Multi-skilled such as Software Developer , SMM , Content Writer and a Lead Management
 - 🥅 2022 Goals:  Open to opportunities as a Software Developer!"
--  💪🏼 I believe in the continuously creative and solution focused living
+- 💪🏼 I believe in the continuously creative and solution focused living
+- 👨‍💻 All of my projects are available at [https://github.com/r-ahmed2022](https://github.com/r-ahmed2022)
 - ⚡ Fun fact: I love reading and the writing 😻 
 
 ![line](./line.gif)
