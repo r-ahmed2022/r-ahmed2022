@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hello, I'm Riyaz 
-## Full Stack Developer 👨‍💻
+## Full-Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-riyaz-ahmed-4216a71a8-blue)](https://www.linkedin.com/in/riyaz-ahmed-4216a71a8/)
 [![](https://img.shields.io/badge/Riysaim-r-ahmed@riysaim.com-red)](mailto:r-ahmed@riysaim.com)
