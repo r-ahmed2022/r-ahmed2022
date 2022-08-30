@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hello, I'm Riyaz 
-## Full-Stack Developer 👨‍💻
+## Front-End Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-riyaz-ahmed-4216a71a8-blue)](https://www.linkedin.com/in/riyaz-ahmed-4216a71a8/)
 [![](https://img.shields.io/badge/Riysaim-r-ahmed@riysaim.com-red)](mailto:r-ahmed@riysaim.com)
@@ -13,10 +13,10 @@
 ## I'm a Developer, Content Writer, and Tech Enthusaist!!
 
 - 🥅 2022 Goals:  Open to opportunities as a Software Developer!"
-- 👯  Multi-skilled such as Software Developer , SMM , Content Writer and a Lead Management
+- 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
 - 👨‍💻 All of my projects are available at [https://github.com/r-ahmed2022](https://github.com/r-ahmed2022)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
 ![line](./line.gif)
