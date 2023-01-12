@@ -15,7 +15,7 @@
 - 🥅 2022 Goals:  Open to opportunities as a Software Developer, Front-End!"
 - 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
-- 👨‍💻 All of my projects are available at [https://github.com/r-ahmed2022](https://github.com/r-ahmed2022)
+- 👨‍💻 Visit my profile at [https://riysaim.netlify.app/](https://riysaim.netlify.app/)
 - 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
