@@ -12,7 +12,7 @@
 
 ## I'm a Developer, Content Writer, and Tech Enthusaist!!
 
-- 🥅 2022 Goals:  Open to opportunities as a Software Developer, Front-End!"
+- 🥅 2023 Goals:  Open to opportunities as a Software Developer, Front-End!"
 - 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
 - 👨‍💻 Visit my profile at [https://riysaim.netlify.app/](https://riysaim.netlify.app/)
