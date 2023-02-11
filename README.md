@@ -43,5 +43,7 @@
 ![line](./line.gif)
 [<img align="left" alt="Ruby" width="26px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
 ![line](./line.gif)
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223" style="padding-right:10px;" />](https://rubyonrails.org/)
+![line](./line.gif)
 
 ⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
