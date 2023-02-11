@@ -41,7 +41,7 @@
 ![line](./line.gif)
 [<img align="left" alt="bootstrap" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" style="padding-right:10px;" />](https://reactjs.org///)
 ![line](./line.gif)
-[<img align="left" alt="bootstrap" width="26px" src="https://en.wikipedia.org/wiki/Ruby_%28programming_language%29#/media/File:Ruby_logo.svg" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
+[<img align="left" alt="Ruby" width="26px" src="https://www.ruby-lang.org/en/" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
 ![line](./line.gif)
 
 ⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
