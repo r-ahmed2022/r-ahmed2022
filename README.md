@@ -41,8 +41,8 @@
 &nbsp;&nbsp;<br>
 
 <h1>Statistics</h1>
-[![GitHub Streak](https://streak-stats.demolab.com?user=r-ahmed2022&theme=transparent)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-ahmed2022&theme=transparent)](https://git.io/streak-stats)
+  
 [![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-ahmed2022)](https://github.com/r-ahmed2022/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ahmed2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
