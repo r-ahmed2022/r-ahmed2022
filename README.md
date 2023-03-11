@@ -5,7 +5,6 @@
 
 ## Front-End Developer 👨‍💻
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-ahmed2022)](https://git.io/streak-stats)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
