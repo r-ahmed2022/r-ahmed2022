@@ -41,5 +41,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ahmed2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)  <img src="https://komarev.com/ghpvc/?username=r-ahmed2022&style=flat-square&color=blue" alt=""/>
+⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)  
 
