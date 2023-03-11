@@ -18,7 +18,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/riyazahmedmicroverse/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <a mailto:r-ahmed@riysaim.com" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width=50px height=50px alt="Gmail Badge" /></a>
+  mailto:r-ahmed@riysaim.com" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width=50px height=50px alt="Gmail Badge" />
 
 </div>
 
