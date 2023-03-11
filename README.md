@@ -5,9 +5,6 @@
 
 ## Front-End Developer 👨‍💻
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-## I'm a Developer, Content Writer, and Tech Enthusaist!!
-
 - 🥅 2023 Goals:  Open to opportunities as a Front-End Developer!"
 - 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
