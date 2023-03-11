@@ -19,6 +19,8 @@
 - 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
+
+```javascript
 const houdaMzari = {
   openTowork: true,
   lookingFor:  "Front-end developer" || "Full-stack web developer",
@@ -26,6 +28,7 @@ const houdaMzari = {
   code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, React , Redux , React Native],
   reachMe: 'mzarii.houda@gmail.com'
 }
+```
 
 ![line](./line.gif)
 
