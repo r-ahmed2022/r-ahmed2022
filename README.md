@@ -2,8 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hello, I'm Riyaz, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### Front-End Developer <img src="https://komarev.com/ghpvc/?username=r-ahmed2022&style=flat-square&color=blue" alt=""/>
-
+### Front-End Developer 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🥅 2023 Goals:  Open to opportunities as a Front-End Developer!"
@@ -40,4 +39,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ahmed2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)
+⭐️ From [@r-ahmed2022](https://github.com/r-ahmed2022)  <img src="https://komarev.com/ghpvc/?username=r-ahmed2022&style=flat-square&color=blue" alt=""/>
+
