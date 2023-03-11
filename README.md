@@ -1,7 +1,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Hello, I'm Riyaz 
+## Hello, I'm Riyaz <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ## Front-End Developer 👨‍💻
 
@@ -22,10 +25,7 @@
 - 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <img src="https://komarev.com/ghpvc/?username=r-ahmed2022&style=flat-square&color=blue" alt=""/>
 
 ![line](./line.gif)
