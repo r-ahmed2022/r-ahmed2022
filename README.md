@@ -19,6 +19,14 @@
 - 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
+const Riyaz = {
+  openTowork: true,
+  lookingFor:  "Front-end developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, React , Redux , Ruby, Ruby on Rails ],
+  reachMe: 'r-ahmed@riysaim.com'
+}
+
 ![line](./line.gif)
 
 ### Connect with me:
