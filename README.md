@@ -10,7 +10,7 @@
 - 💪🏼 I believe in the continuously creative and solution focused living
 - 👨‍💻 Visit my profile at [https://riysaim.netlify.app/](https://riysaim.netlify.app/)
 - 🌱 Aspiring Full-Stack Developer and Data-Scientist 
-- ⚡ Fun fact: I love reading and the writing 😻 
+- ⚡ Fun fact: I love reading and the writing 
 
 
 
