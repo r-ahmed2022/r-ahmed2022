@@ -19,12 +19,12 @@
 - 🌱 I’m currently learning Full-Stack and Data-Science 🤣
 - ⚡ Fun fact: I love reading and the writing 😻 
 
-const Riyaz = {
+const houdaMzari = {
   openTowork: true,
-  lookingFor:  "Front-end developer",
-  pronouns: ["he", "him"],
-  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, React , Redux , Ruby, Ruby on Rails ],
-  reachMe: 'r-ahmed@riysaim.com'
+  lookingFor:  "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, React , Redux , React Native],
+  reachMe: 'mzarii.houda@gmail.com'
 }
 
 ![line](./line.gif)
