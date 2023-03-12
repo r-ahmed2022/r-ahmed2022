@@ -15,7 +15,7 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/riyazahmedmicroverse/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://riysaim.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-blue" width="50" height="50" alt="Portfolio Badge"/></a>
+  <a href="https://riysaim.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-blue" width="100" height="30" alt="Portfolio Badge"/></a>
 
 
 </div>
