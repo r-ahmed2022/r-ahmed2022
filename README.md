@@ -7,7 +7,6 @@
 - 🥅 2023 Goals:  Open to opportunities as a Front-End Developer!"
 - 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
-- 👨‍💻 Visit my profile at [https://riysaim.netlify.app/](https://riysaim.netlify.app/)
 - 🌱 Aspiring Full-Stack Developer and Data-Scientist 
 - ⚡ Fun fact: I love reading and the writing 
 
