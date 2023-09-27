@@ -4,7 +4,7 @@
 ## Hello, I'm Riyaz, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img src="https://komarev.com/ghpvc/?username=r-ahmed2022&style=flat-square&color=blue" alt=""/>
-- 🥅 2023 Goals:  Open to opportunities as a Front-End Developer!"
+- 🥅 2023 Goals:  Open to opportunities as a Full-Stack Developer!"
 - 👯  Multi-skilled such as Front-End Web Developer , SMM , Content Writer and a Lead Management
 - 💪🏼 I believe in the continuously creative and solution focused living
 - 🌱 Aspiring Full-Stack Developer and Data-Scientist 
